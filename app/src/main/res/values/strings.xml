@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">databinding</string>
+    <string name="larger">比七大</string>
+    <string name="smaller">比七小</string>
+    <string name="score">分數:</string>
+    <string name="correct">恭喜，答對！</string>
+    <string name="wrong">喔喔，猜錯！</string>
+</resources>
